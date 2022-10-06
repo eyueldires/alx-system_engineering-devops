@@ -1,2 +1,2 @@
-#!/bin/bash
-echo"current directory is `pwd`"
+#/bin/bash
+echo "Current directory is `pwd`"

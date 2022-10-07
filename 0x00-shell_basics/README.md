@@ -7,3 +7,4 @@
 (7)Create a script that creates a directory named my_first_directory in the /tmp/ directory.
 (8)Move the file betty from /tmp/ to /tmp/my_first_directory.
 (9)The file betty is in /tmp/my_first_directory
+(10)Delete the directory my_first_directory that is in the /tmp directory.

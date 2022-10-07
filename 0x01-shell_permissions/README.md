@@ -8,3 +8,4 @@
 (8)Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello.
 (9)owner no permition,group no permission & others all permission.
 (10)-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello.
+(11)Write a script that sets the mode of the file hello the same as olleh’s mode.

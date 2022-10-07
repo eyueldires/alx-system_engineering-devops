@@ -4,3 +4,4 @@
 (4)Display current directory contents in a long format
 (5)Display current directory contents, including hidden files (starting with .)
 (6) display long format,user id &hidden files
+(7)Create a script that creates a directory named my_first_directory in the /tmp/ directory.

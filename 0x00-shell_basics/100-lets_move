@@ -1,0 +1,2 @@
+#!/bin/bash
+mv tr`a-z` /tmp/u

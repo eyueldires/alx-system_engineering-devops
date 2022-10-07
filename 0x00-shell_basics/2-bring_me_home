@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "change directory $(cd, home)"
+cd home

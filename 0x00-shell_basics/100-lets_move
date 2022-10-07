@@ -1,2 +1,2 @@
 #!/bin/bash
-mv tr`a-z` /tmp/u
+mv tr[A-Z] /tmp/u

@@ -11,3 +11,5 @@ Write a script that duplicates the last line of the file iacta
 a script that deletes all the regular files (not the directories) with a .js extension
 a script that counts the number of directories and sub-directories in the current directory.
 Create a script that displays the 10 newest files in the current directory.
+a script that takes a list of words as input and prints only words that appear exactly once.
+Display lines containing the pattern “root” from the file /etc/passwd
